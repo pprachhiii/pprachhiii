@@ -6,11 +6,21 @@ I'm an aspiring **MERN stack developer** passionate about building scalable, use
 
 ## 💻 Tech Stack
 
-**Frontend**: HTML5 · CSS3 · JavaScript (ES6+) · React · Tailwind CSS · Bootstrap  <br>
-**Backend**: Node.js · Express.js · REST APIs · MVC Architecture  <br>
-**Database**: MongoDB (Mongoose) · MySQL (basics)  <br>
-**Tools & Platforms**: Git & GitHub · Postman · Cloudinary · Render · Vercel · Railway  <br>
-**Other**: JWT Auth · Session Management · CRUD Operations · Socket.IO
+**Frontend**  
+HTML5 · CSS3 · JavaScript (ES6+) · React · Tailwind CSS · Bootstrap
+
+**Backend**  
+Node.js · Express.js · REST APIs · MVC Architecture
+
+**Database**  
+MongoDB (Mongoose) · MySQL (Basics)
+
+**Tools & Platforms**  
+Git & GitHub · Postman · Cloudinary · Render · Vercel · Railway
+
+**Other**  
+JWT Authentication · Session Management · CRUD Operations · Socket.IO
+
 ---
 
 ## 🛠 Notable Projects
