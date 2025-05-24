@@ -37,8 +37,16 @@ JWT Authentication · Session Management · CRUD Operations · Socket.IO
 * **[FasalForecast](https://farming-agriculture-assistant-production.up.railway.app/)**
   Crop recommendation system using live weather forecasts and soil data for smart agriculture suggestions.
 
-* **[Ta-Da](https://ta-da.onrender.com/)**
-  A minimalist to-do list app with full CRUD functionality and a clean, responsive UI.
+* **[Item-Manager](https://ta-da.onrender.com/)**
+  A responsive full-stack CRUD web app with React, TypeScript, Tailwind CSS, and efficient state management.
+
+
+
+
+
+
+
+
 
 📌 View more in my [Pinned Repositories](https://github.com/pprachhiii?tab=repositories)
 
