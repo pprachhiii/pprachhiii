@@ -1,54 +1,74 @@
-# 👋 Hi, I'm Prachi Yadav
+# Hello! I'm Prachi Yadav
 
-I'm an aspiring **MERN stack developer** passionate about building scalable, user-friendly web applications. From crafting responsive UIs to developing robust backends, I love solving real-world problems through code — one project at a time.
+Full-Stack Developer with hands-on experience in building and deploying web applications. Skilled in backend development, performance optimization, scalable architectures, and delivering customer-facing features in collaborative environments.
 
 ---
 
 ## 💻 Tech Stack
 
-**Frontend**  
-HTML5 · CSS3 · JavaScript (ES6+) · React · Tailwind CSS · Bootstrap
+**Frontend**
+HTML5 · CSS3 · React · Next.js · Tailwind CSS · Bootstrap · EJS
 
-**Backend**  
-Node.js · Express.js · REST APIs · MVC Architecture
+**Backend**
+Node.js · Express.js · Redis
 
-**Database**  
-MongoDB (Mongoose) · MySQL (Basics)
+**Database**
+MongoDB (Mongoose) · MySQL · PostgreSQL · Prisma ORM · Upstash
 
-**Tools & Platforms**  
-Git & GitHub · Postman · Cloudinary · Render · Vercel · Railway
+**Tools**
+Git & GitHub · Postman · APIDog 
 
-**Other**  
-JWT Authentication · Session Management · CRUD Operations · Socket.IO
+**Other Skills**
+Problem-solving · Collaboration · Adaptability · Attention to Detail
+
+**Programming Languages**
+ JavaScript (ES6+) · TypeScript · Java · English (Fluent) · Hindi (Native) · Spanish (Intermediate) · Korean (Beginner)
+
+**Languages**
+ English (Fluent) · Hindi (Native) · Spanish (Intermediate) · Korean (Beginner)
+
+---
+
+## 🛠 Work Experience
+
+**Full-Stack Developer** – [Shreemal Technology](https://www.linkedin.com/company/shreemal-technology/) (Remote)
+*Jun 2025 – Aug 2025*
+
+* Architected and deployed scalable full-stack features using **Next.js**, **Express.js**, and **REST APIs**, ensuring type-safe development with **TypeScript**.
+* Optimized backend performance with **Upstash** for caching, rate-limiting, and cron jobs. Built relational database services with **Node.js**, **Prisma ORM**, and **PostgreSQL**.
+
+**Backend Developer** – [GetNomik](https://www.linkedin.com/company/getnomik/) (Remote)
+*Jul 2025 – Aug 2025*
+
+* Developed modular and scalable backend services using **Node.js** and **Express.js**, building high-performance RESTful APIs.
+* Engineered secure backend infrastructure by designing **MySQL** databases, implementing **JWT**-based authentication, RBAC, transactional email workflows (**SMTP APIs**), and integrated **Razorpay** payment gateways.
 
 ---
 
 ## 🛠 Notable Projects
 
-* **[StayEase](https://stayease-smsm.onrender.com/)**
-  Airbnb-style rental listing platform with location filters, session-based auth, Cloudinary image uploads, and review functionality.
+**[Chat App](https://chat-app-somd.onrender.com/login) | [GitHub](https://github.com/pprachhiii/chat-app)**
 
-* **[MERN Ecommerce App](https://e-commerce-app-1-652v.onrender.com/)**
-  Full-featured ecommerce site with PayPal integration, dynamic product listings, and admin controls for orders/categories.
+* Real-time one-to-one chat application using **React, Express.js, Socket.IO, MongoDB** with secure JWT authentication, media sharing, and live messaging.
+* Implemented user profile management, online presence tracking, and cloud-based media storage.
 
-* **[Real-Time Chat App](https://chat-app-somd.onrender.com/)**
-  Chat application with Socket.IO, live user presence tracking, private chats, and JWT-based authentication.
+**[Rental Listing Platform](https://stayease-smsm.onrender.com/listings) | [GitHub](https://github.com/pprachhiii/StayEase)**
 
-* **[FasalForecast](https://farming-agriculture-assistant-production.up.railway.app/)**
-  Crop recommendation system using live weather forecasts and soil data for smart agriculture suggestions.
+* Airbnb-style rental marketplace with dynamic listings, secure session management, and optimized image uploads.
 
-* **[Item-Manager](https://ta-da.onrender.com/)**
-  A responsive full-stack CRUD web app with React, TypeScript, Tailwind CSS, and efficient state management.
+**[Item-Manager](https://item-manager-cee0.onrender.com/) | [GitHub](https://github.com/pprachhiii/item-manager)**
 
+* CRUD app built with **React, Tailwind CSS, Vite**, featuring modular code and global state synchronization.
 
+**[FasalForecast](https://farming-agriculture-assistant-production.up.railway.app/)**
 
+* Crop recommendation system using live weather forecasts and soil data for smart agriculture suggestions.
 
+**[Ecommerce App](https://e-commerce-app-1-652v.onrender.com/)**
 
+* Full-featured ecommerce platform with PayPal integration, dynamic product listings, and admin controls for orders and categories.
 
-
-
-
-📌 View more in my [Pinned Repositories](https://github.com/pprachhiii?tab=repositories)
+📌 More projects in my [Pinned Repositories](https://github.com/pprachhiii?tab=repositories)
 
 ---
 
@@ -56,10 +76,12 @@ JWT Authentication · Session Management · CRUD Operations · Socket.IO
 
 * ✉️ Email: [prachiyadav00.dev@gmail.com](mailto:prachiyadav00.dev@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/prachi-yadav-87303231a)
-* 🌐 [Portfolio Website](https://portfolio-nine-eta-23.vercel.app/)
+* 🌐 [Portfolio Website](https://prachideveloperportfolio.vercel.app/)
 * 🧑‍💻 [GitHub Profile](https://github.com/pprachhiii)
 
 ---
 
 > “Learning by building.”
-> Each project helps me grow as a developer — I'm open to internships, collaborations, and conversations about tech and learning! i ahve this readme
+> Each project helps me grow as a developer — I'm open to internships, collaborations, and conversations about tech and learning!
+
+---
