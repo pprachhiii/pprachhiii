@@ -2,8 +2,6 @@
 
 **Full-Stack Developer** passionate about building scalable web applications. Skilled in backend development, performance optimization, and delivering customer-facing features in collaborative environments.
 
----
-
 <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 2rem;">
   <a href="https://drive.google.com/uc?export=download&id=1SJijydQdGSN9uI0O1vZb3I5R70ge-YVU" 
      style="padding: 0.6rem 1.2rem; background-color: #facc15; color: black; font-weight: 600; border-radius: 9999px; text-decoration: none;">
@@ -22,11 +20,17 @@ View Resume </a>
 ## 💻 Tech Stack
 
 **Frontend:** HTML5, CSS3, React, Next.js, Tailwind CSS, Bootstrap, EJS
+
 **Backend:** Node.js, Express.js, Redis
+
 **Database:** MongoDB (Mongoose), MySQL, PostgreSQL, Prisma ORM, Upstash
+
 **Tools:** Git & GitHub, Postman, APIDog
+
 **Programming Languages:** JavaScript (ES6+), TypeScript, Java
+
 **Other Skills:** Problem-solving, Collaboration, Adaptability, Attention to Detail
+
 **Languages:** English (Fluent), Hindi (Native), Spanish (Intermediate), Korean (Beginner)
 
 ---
@@ -79,7 +83,7 @@ View Resume </a>
 * ✉️ [Email](mailto:prachiyadav00.dev@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/prachi-yadav-87303231a)
 * 🌐 [Portfolio](https://prachideveloperportfolio.vercel.app/)
-* 🧑‍💻 [GitHub](https://github.com/pprachhiii)
+* 💻 [GitHub](https://github.com/pprachhiii)
 
 ---
 
