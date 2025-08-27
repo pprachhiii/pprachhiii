@@ -4,6 +4,22 @@ Full-Stack Developer with hands-on experience in building and deploying web appl
 
 ---
 
+<!-- Resume Buttons -->
+<div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
+  <a href="https://drive.google.com/uc?export=download&id=1SJijydQdGSN9uI0O1vZb3I5R70ge-YVU" 
+     style="padding: 0.6rem 1.2rem; background: linear-gradient(to right, #facc15, #f97316); color: black; font-weight: 600; border-radius: 9999px; text-decoration: none; display: inline-block;">
+    Download Resume
+  </a>
+  
+  <a href="https://drive.google.com/file/d/1SJijydQdGSN9uI0O1vZb3I5R70ge-YVU/view?usp=sharing" 
+     target="_blank" rel="noopener noreferrer"
+     style="padding: 0.6rem 1.2rem; background: linear-gradient(to right, #3b82f6, #6366f1); color: white; font-weight: 600; border-radius: 9999px; text-decoration: none; display: inline-block;">
+    View Resume
+  </a>
+</div>
+
+---
+
 ## 💻 Tech Stack
 
 **Frontend**
