@@ -22,7 +22,7 @@ Git & GitHub · Postman · APIDog
 Problem-solving · Collaboration · Adaptability · Attention to Detail
 
 **Programming Languages**
- JavaScript (ES6+) · TypeScript · Java · English (Fluent) · Hindi (Native) · Spanish (Intermediate) · Korean (Beginner)
+ JavaScript (ES6+) · TypeScript · Java 
 
 **Languages**
  English (Fluent) · Hindi (Native) · Spanish (Intermediate) · Korean (Beginner)
