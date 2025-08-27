@@ -37,15 +37,15 @@ View Resume </a>
 
 ## 🛠 Work Experience
 
-**Full-Stack Developer** – [Shreemal Technology](https://www.linkedin.com/company/shreemal-technology/) *(Remote)*
-*Jun 2025 – Aug 2025*
+**Full-Stack Developer** - [Shreemal Technology](https://www.linkedin.com/company/shreemal-technology/) *(Remote)*
+*Jun 2025 - Aug 2025*
 
 * Built scalable full-stack features using **Next.js**, **Express.js**, and **TypeScript**.
 * Optimized backend performance with **Upstash** caching, rate-limiting, and cron jobs.
 * Developed relational database services with **Node.js**, **Prisma ORM**, and **PostgreSQL**.
 
-**Backend Developer** – [GetNomik](https://www.linkedin.com/company/getnomik/) *(Remote)*
-*Jul 2025 – Aug 2025*
+**Backend Developer** - [GetNomik](https://www.linkedin.com/company/getnomik/) *(Remote)*
+*Jul 2025 - Aug 2025*
 
 * Developed modular backend services and high-performance REST APIs with **Node.js** and **Express.js**.
 * Designed secure databases (**MySQL**), implemented JWT-based authentication, RBAC, email workflows, and integrated **Razorpay** payments.
