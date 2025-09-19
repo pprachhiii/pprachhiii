@@ -2,18 +2,6 @@
 
 **Full-Stack Developer** passionate about building scalable web applications. Skilled in backend development, performance optimization, and delivering customer-facing features in collaborative environments.
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 2rem;">
-  <a href="https://drive.google.com/uc?export=download&id=1SJijydQdGSN9uI0O1vZb3I5R70ge-YVU" 
-     style="padding: 0.6rem 1.2rem; background-color: #facc15; color: black; font-weight: 600; border-radius: 9999px; text-decoration: none;">
-    Download Resume
-  </a>
-
-<a href="https://drive.google.com/file/d/1SJijydQdGSN9uI0O1vZb3I5R70ge-YVU/view?usp=sharing" 
-  target="_blank" rel="noopener noreferrer"
-  style="padding: 0.6rem 1.2rem; background-color: #3b82f6; color: white; font-weight: 600; border-radius: 9999px; text-decoration: none;">
-View Resume </a>
-
-</div>
 
 ---
 
